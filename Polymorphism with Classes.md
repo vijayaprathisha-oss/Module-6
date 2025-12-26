@@ -26,6 +26,7 @@ To create two specific classes — `Beans` and `Mango`. Then, create a **generic
 ---
 
 ## 💻 Program
+```
 class Beans:
     def type(self):
         print("Vegetable")
@@ -43,7 +44,7 @@ b = Beans()
 m = Mango()
 describe(b)
 describe(m)
-
+```
 
 ## Output
 <img width="1466" height="869" alt="image" src="https://github.com/user-attachments/assets/c573ca93-19a8-425e-bf4d-2495deedb98e" />
